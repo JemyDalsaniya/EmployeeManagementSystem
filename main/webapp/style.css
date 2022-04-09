@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+body {
+	background-color:lightblue;
+}
+.loginsection {
+	margin-top : 60px;
+}
+.errorcolor {
+	color:red;
+}
